@@ -1,5 +1,5 @@
 # HackClub-Kmea
-enter your exception suggestions
+enter your exception suggestions.
 
 ---
 ## <b> Create A File </b>
